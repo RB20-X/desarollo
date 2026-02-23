@@ -1,0 +1,1 @@
+printf("IMPRIMIR UN TEXTO");
