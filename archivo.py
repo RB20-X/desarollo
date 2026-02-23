@@ -1,1 +1,2 @@
-printf("IMPRIMIR UN TEXTO");
+#!/usr/bin/env python3
+print("IMPRIMIR UN TEXTO")
